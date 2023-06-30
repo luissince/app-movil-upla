@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949657317637",
+    "project_id": "app-push-notification-f632c",
+    "storage_bucket": "app-push-notification-f632c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949657317637:android:3c07a08b95a5b49010476c",
+        "android_client_info": {
+          "package_name": "edu.pe.appupla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949657317637-4ugabrres54vi3kmh57fi9g86nbtpt95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CS_envjQwH3ZtLr_1c-YkPqVunEXR7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949657317637-4ugabrres54vi3kmh57fi9g86nbtpt95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
